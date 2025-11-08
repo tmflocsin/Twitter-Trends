@@ -1,0 +1,22 @@
+h1 {
+	font-family: 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+}
+
+footer {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.fa-building, .fa-facebook-f, .fa-x-twitter, .fa-instagram, .fa-tiktok, .fa-youtube {
+    font-size: 25px;
+    color: white;
+    margin: 0 10px 0 10px;
+}
+
+.fa-building:hover, .fa-facebook-f:hover, .fa-x-twitter:hover, .fa-instagram:hover, .fa-tiktok:hover, .fa-youtube:hover {
+    color: gray;
+}
