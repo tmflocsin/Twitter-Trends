@@ -17,4 +17,4 @@ A project that analyzes and visualizes trending topics on Twitter using data acc
 | RapidAPI          | Twitter trends data source                    |
 
 ## 🔗 Live Demo
-[Github Pages link]([https://example.com](https://tmflocsin.github.io/Twitter-Trends/))
+[Github Pages link](https://tmflocsin.github.io/Twitter-Trends/)
