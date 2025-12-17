@@ -1,8 +1,8 @@
 # 📊 Daily Twitter Trends Analyzer
 <div align="center">
-  <img width="1876" height="872" alt="screenshot-1765957527080" src="https://github.com/user-attachments/assets/5a0950e7-223c-4eb0-a129-ca01b7d2fc3b" />
-
+  <img width="1876" height="872" alt="screenshot-1765957527080" src="https://github.com/user-attachments/assets/f121548b-4049-468a-8d4f-34eeaf6fff41" />
 </div>
+
 
 A project that analyzes and visualizes trending topics on Twitter using data accessed through RapidAPI. It uses a web technology stack with HTML, CSS, and JavaScript for the user interface, enabling real-time monitoring and presentation of Twitter trends.
 
